@@ -1,0 +1,8 @@
+langchain
+python-dotenv
+ipykernel
+langchain-community
+langchain-groq
+validators==0.28.1
+numexpr
+wikipedia
